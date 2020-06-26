@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Hello World uwu"
 ---
-Your text
+Python
 Use the left arrow to go back!
